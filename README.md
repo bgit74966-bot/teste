@@ -13,6 +13,11 @@
       <img id="wake1" src="wake1.jpeg" alt="airtrik">
     </div>
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ukszYVq1ytc?si=tzzTEWUFGFP166M4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ukszYVq1ytc?si=2RGWSbl2aCDdwvKS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>       
       </div>
-  </body>
+      <div class="videos">
+        <a href="https://youtu.be/r9p5-TWUC8Q?si=vGpzCM4q7Cs-DKA0"></a>
+        <a href="https//youtu.be/qKMR6J0b99E?si=wWhmpbRu2kU2sXE7"></a>
+        <a href="https://youtu.be/xWBTO4VQ3SU?si=H25NXuTj-nhzUBHS"></a>
+      </div>
+  </body
